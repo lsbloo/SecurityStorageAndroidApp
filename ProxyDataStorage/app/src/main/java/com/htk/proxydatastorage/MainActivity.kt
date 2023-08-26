@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
             serviceStorageData.save("OSVALDO AIRON BEZERRA CAVALCANTI FILHO", "userName")
 
             serviceStorageData.get("userName", String::class.java, onResult = {
-                Log.d("Test", "OSVALDO" + it)
+                Log.d("Test", "" + it)
             })
         }
 
