@@ -3,7 +3,10 @@ Exemplo de como salvar dados no android de maneira segura utilizando algoritmos 
 
 
 ## Ofuscação de dados no arquivo de preferencias do android;
+![Screenshot](crypto_shared_file_android.png)
 
+## Salvando dados com data store;
+![Screenshot](crypto_save_data_example.png)
 
 ## Diagrama de Classes
 ![Screenshot](scheme_cache_crypto_android.png)
